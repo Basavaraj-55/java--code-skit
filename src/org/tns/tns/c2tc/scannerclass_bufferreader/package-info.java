@@ -1,1 +1,0 @@
-package org.tns.tns.c2tc.scannerclass_bufferreader;

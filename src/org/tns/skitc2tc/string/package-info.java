@@ -1,1 +1,0 @@
-package org.tns.skitc2tc.string;
